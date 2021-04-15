@@ -1,0 +1,12 @@
+{
+  "name": "bingus",
+  "version": "1.0.0",
+  "description": "a Bingus package!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["bingus", "cat"],
+  "author": "cctw",
+  "license": "ISC"
+}
